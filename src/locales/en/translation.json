@@ -1,0 +1,153 @@
+{
+  "editProfileForm": {
+    "editProfileTitle": "Edit Your Profile",
+    "publicInformation": "Public information",
+    "displayName": "Display name",
+    "aboutMe": "About me",
+    "watchedTags": "Watched tags",
+    "addTagsPrompt": "Add tags separated by spaces",
+    "saveProfile": "Save profile",
+    "cancel": "Cancel"
+  },
+  "auth": {
+    "enterEmailAndPassword": "Enter an email and password",
+    "enterName": "Enter a name to continue",
+    "enterPhoneNumber": "Enter a phone number to continue",
+    "displayName": "Display Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "passwordRequirements": "Passwords must contain at least eight characters, including at least 1 letter and 1 number.",
+    "optInMessage": "Opt-in to receive occasional, product updates, user research invitations, company announcements, and digests.",
+    "signUp": "Sign up",
+    "login": "Login",
+    "signUpAgreement": "By clicking \"Sign up\", you agree to our terms of service, privacy policy and cookie policy.",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "aboutAuth": {
+    "joinCommunity": "Join the Stack Overflow community",
+    "getUnstuck": "Get unstuck - ask a question",
+    "unlockPrivileges": "Unlock new privileges like voting and commenting",
+    "saveFavorites": "Save your favorite tags, filters, and jobs",
+    "collaborateShare": "Collaborate and share knowledge with a private group for",
+    "getFree": "Get Stack Overflow free for up to 50 users."
+  },
+  "forgotPassword": {
+    "getOTP": "Get OTP",
+    "getOTPThrough": "Get OTP through"
+  },
+  "setNewPassword": {
+    "email": "Email",
+    "password": "Password",
+    "changePassword": "Change Password"
+  },
+  "validateOTP": {
+    "otp": "OTP",
+    "validateOTP": "Validate OTP"
+  },
+  "questionsDetails": {
+    "loading": "Loading...",
+    "loginToAnswer": "Login or Signup to answer a question",
+    "enterAnswer": "Enter an answer before submitting",
+    "copiedUrl": "Copied url: ",
+    "share": "Share",
+    "delete": "Delete",
+    "asked": "asked",
+    "answers": "Answers",
+    "yourAnswer": "Your Answer",
+    "postYourAnswer": "Post Your Answer",
+    "browseOtherQuestions": "Browse other Questions tagged",
+    "or": "or",
+    "askYourOwnQuestion": "ask your own question",
+    "answered": "answered"
+  },
+  "tags": {
+    "tagsTitle": "Tags",
+    "tagsDescription1": "A tag is a keyword or label that categorizes your question with other, similar questions.",
+    "tagsDescription2": "Using the right tags makes it easier for others to find and answer your question.",
+    "noTagsAvailable": "No Tags Available"
+  },
+  "profileBio": {
+    "tagsWatched": "Tags watched",
+    "noTagsWatched": "0 tags watched",
+    "about": "About",
+    "noBioFound": "No bio found"
+  },
+  "userProfile": {
+    "joined": "Joined",
+    "editProfile": "Edit Profile",
+    "loginHistory": "Login History"
+  },
+  "users": {
+    "title": "Users",
+    "noUsersAvailable": "No Users Available"
+  },
+  "askQuestion": {
+    "pageTitle": "Ask a public Question",
+    "titleLabel": "Title",
+    "titlePlaceholder": "e.g. Is there an R function for finding the index of an element in a vector?",
+    "titleHint": "Be specific and imagine you are asking a question to another person",
+    "bodyLabel": "Body",
+    "bodyPlaceholder": "Include all the information someone would need to answer your question",
+    "bodyHint": "on key press for handling enter button",
+    "tagsLabel": "Tags",
+    "tagsPlaceholder": "e.g. (xml typescript wordpress)",
+    "tagsHint": "Add up to 5 tags to describe what your question is about",
+    "reviewButton": "Review your question"
+  },
+  "homeMainbar": {
+    "topQuestions": "Top Questions",
+    "allQuestions": "All Questions",
+    "askQuestion": "Ask Question",
+    "loading": "Loading...",
+    "questionsCount": "{{ count }} questions"
+  },
+  "alerts": {
+    "loginToAskQuestion": "Login or signup to ask a question"
+  },
+  "questions": {
+    "votes": "votes",
+    "answers": "answers",
+    "asked": "asked",
+    "askedBy": "asked by"
+  },
+  "leftSideBar": {
+    "home": "Home",
+    "public": "PUBLIC",
+    "questions": "Questions",
+    "tags": "Tags",
+    "users": "Users"
+  },
+  "navbar": {
+    "about": "About",
+    "products": "Products",
+    "forTeams": "For Teams",
+    "searchPlaceholder": "Search...",
+    "login": "Log in",
+    "logout": "Log out"
+  },
+  "widget": {
+    "overflowBlog": "The Overflow Blog",
+    "observability": "Observability is key to the future of software (and your DevOps career)",
+    "podcast": "Podcast 334: How valuable is your screen name?",
+    "featuredMeta": "Featured on meta",
+    "reviewQueue": "Review queue workflows - Final release....",
+    "welcomeAssociates": "Please welcome Valued Associates: #958 - V2Blast #959 - SpencerG",
+    "outdatedAnswers": "Outdated Answers: accepted answer is now unpinned on Stack Overflow",
+    "hotMetaPosts": "Hot meta posts",
+    "spamFlag": "Why was this spam flag declined, yet the question marked as spam?",
+    "bestCourse": "What is the best course of action when a user has high enough rep to...",
+    "usefulComment": "Is a link to the \"How to ask\" help page a useful comment?"
+  },
+  "loginHistory": {
+    "yourLoginHistory": "Login History",
+    "yourLoginInformation": "Login Information",
+    "loginTime": "Login Time",
+    "ipAddress": "IP Address",
+    "browser": "Browser",
+    "os": "os",
+    "device": "Device"
+  }
+}

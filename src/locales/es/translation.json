@@ -1,0 +1,152 @@
+{
+    "editProfileForm": {
+      "editProfileTitle": "Edita tu perfil",
+      "publicInformation": "Información pública",
+      "displayName": "Nombre visible",
+      "aboutMe": "Sobre mí",
+      "watchedTags": "Etiquetas observadas",
+      "addTagsPrompt": "Agrega etiquetas separadas por espacios",
+      "saveProfile": "Guardar perfil",
+      "cancel": "Cancelar"
+    },
+    "auth": {
+      "enterEmailAndPassword": "Introduce un correo electrónico y una contraseña",
+      "enterName": "Introduce un nombre para continuar",
+      "enterPhoneNumber": "Introduce un número de teléfono para continuar",
+      "displayName": "Nombre visible",
+      "email": "Correo electrónico",
+      "phoneNumber": "Número de teléfono",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "passwordRequirements": "Las contraseñas deben tener al menos ocho caracteres, incluyendo al menos 1 letra y 1 número.",
+      "optInMessage": "Opta por recibir ocasionalmente actualizaciones de productos, invitaciones a investigaciones de usuarios, anuncios de la empresa y resúmenes.",
+      "signUp": "Registrarse",
+      "login": "Iniciar sesión",
+      "signUpAgreement": "Al hacer clic en \"Registrarse\", aceptas nuestros términos de servicio, política de privacidad y política de cookies.",
+      "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+      "dontHaveAccount": "¿No tienes una cuenta?"
+    },
+    "aboutAuth": {
+      "joinCommunity": "Únete a la comunidad de Stack Overflow",
+      "getUnstuck": "Desatasca - haz una pregunta",
+      "unlockPrivileges": "Desbloquea nuevos privilegios como votar y comentar",
+      "saveFavorites": "Guarda tus etiquetas, filtros y trabajos favoritos",
+      "collaborateShare": "Colabora y comparte conocimientos con un grupo privado para",
+      "getFree": "Obtén Stack Overflow gratis para hasta 50 usuarios."
+    },
+    "forgotPassword": {
+      "getOTP": "Obtener OTP",
+      "getOTPThrough": "Obtener OTP a través de"
+    },
+    "setNewPassword": {
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "changePassword": "Cambiar contraseña"
+    },
+    "validateOTP": {
+      "otp": "OTP",
+      "validateOTP": "Validar OTP"
+    },
+    "questionsDetails": {
+      "loading": "Cargando...",
+      "loginToAnswer": "Inicia sesión o regístrate para responder una pregunta",
+      "enterAnswer": "Introduce una respuesta antes de enviar",
+      "copiedUrl": "URL copiada: ",
+      "share": "Compartir",
+      "delete": "Eliminar",
+      "asked": "preguntó",
+      "answers": "Respuestas",
+      "yourAnswer": "Tu respuesta",
+      "postYourAnswer": "Publica tu respuesta",
+      "browseOtherQuestions": "Explora otras preguntas etiquetadas",
+      "or": "o",
+      "askYourOwnQuestion": "haz tu propia pregunta",
+      "answered": "respondido"
+    },
+    "tags": {
+      "tagsTitle": "Etiquetas",
+      "tagsDescription1": "Una etiqueta es una palabra clave o etiqueta que categoriza tu pregunta con otras preguntas similares.",
+      "tagsDescription2": "Usar las etiquetas correctas facilita que otros encuentren y respondan tu pregunta.",
+      "noTagsAvailable": "No hay etiquetas disponibles"
+    },
+    "profileBio": {
+      "tagsWatched": "Etiquetas observadas",
+      "noTagsWatched": "0 etiquetas observadas",
+      "about": "Acerca de",
+      "noBioFound": "No se encontró biografía"
+    },
+    "userProfile": {
+      "joined": "Se unió",
+      "editProfile": "Editar perfil"
+    },
+    "users": {
+      "title": "Usuarios",
+      "noUsersAvailable": "No hay usuarios disponibles"
+    },
+    "askQuestion": {
+      "pageTitle": "Haz una pregunta pública",
+      "titleLabel": "Título",
+      "titlePlaceholder": "p.ej. ¿Existe una función en R para encontrar el índice de un elemento en un vector?",
+      "titleHint": "Sé específico e imagina que estás haciendo una pregunta a otra persona",
+      "bodyLabel": "Cuerpo",
+      "bodyPlaceholder": "Incluye toda la información que alguien necesitaría para responder tu pregunta",
+      "bodyHint": "al presionar una tecla para manejar el botón de enter",
+      "tagsLabel": "Etiquetas",
+      "tagsPlaceholder": "p.ej. (xml typescript wordpress)",
+      "tagsHint": "Agrega hasta 5 etiquetas para describir de qué trata tu pregunta",
+      "reviewButton": "Revisa tu pregunta"
+    },
+    "homeMainbar": {
+      "topQuestions": "Preguntas principales",
+      "allQuestions": "Todas las preguntas",
+      "askQuestion": "Haz una pregunta",
+      "loading": "Cargando...",
+      "questionsCount": "{{ count }} preguntas"
+    },
+    "alerts": {
+      "loginToAskQuestion": "Inicia sesión o regístrate para hacer una pregunta"
+    },
+    "questions": {
+      "votes": "votos",
+      "answers": "respuestas",
+      "asked": "preguntó",
+      "askedBy": "preguntado por"
+    },
+    "leftSideBar": {
+      "home": "Inicio",
+      "public": "PÚBLICO",
+      "questions": "Preguntas",
+      "tags": "Etiquetas",
+      "users": "Usuarios"
+    },
+    "navbar": {
+      "about": "Acerca de",
+      "products": "Productos",
+      "forTeams": "Para equipos",
+      "searchPlaceholder": "Buscar...",
+      "login": "Iniciar sesión",
+      "logout": "Cerrar sesión"
+    },
+    "widget": {
+      "overflowBlog": "El blog de Overflow",
+      "observability": "La observabilidad es clave para el futuro del software (y tu carrera en DevOps)",
+      "podcast": "Podcast 334: ¿Qué tan valioso es tu nombre de usuario?",
+      "featuredMeta": "Destacado en meta",
+      "reviewQueue": "Flujos de trabajo de la cola de revisión - Lanzamiento final....",
+      "welcomeAssociates": "Por favor, den la bienvenida a los Asociados Valiosos: #958 - V2Blast #959 - SpencerG",
+      "outdatedAnswers": "Respuestas desactualizadas: la respuesta aceptada ahora no está anclada en Stack Overflow",
+      "hotMetaPosts": "Publicaciones calientes en meta",
+      "spamFlag": "¿Por qué se rechazó esta bandera de spam, pero la pregunta se marcó como spam?",
+      "bestCourse": "¿Cuál es el mejor curso de acción cuando un usuario tiene suficiente reputación para...",
+      "usefulComment": "¿Es útil un enlace a la página de ayuda \"Cómo preguntar\" como comentario?"
+    },
+    "loginHistory": {
+    "yourLoginHistory": "Historial de Inicio de Sesión",
+    "yourLoginInformation": "Información de Inicio de Sesión",
+    "loginTime": "Hora de Inicio de Sesión",
+    "ipAddress": "Dirección IP",
+    "browser": "Navegador",
+    "os": "Sistema Operativo",
+    "device": "Dispositivo"
+  }
+} 

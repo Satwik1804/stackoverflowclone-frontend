@@ -1,0 +1,152 @@
+{
+  "editProfileForm": {
+    "editProfileTitle": "编辑您的资料",
+    "publicInformation": "公共信息",
+    "displayName": "显示名称",
+    "aboutMe": "关于我",
+    "watchedTags": "关注的标签",
+    "addTagsPrompt": "添加用空格分隔的标签",
+    "saveProfile": "保存资料",
+    "cancel": "取消"
+  },
+  "auth": {
+    "enterEmailAndPassword": "输入电子邮件和密码",
+    "enterName": "输入名称以继续",
+    "enterPhoneNumber": "输入电话号码以继续",
+    "displayName": "显示名称",
+    "email": "电子邮件",
+    "phoneNumber": "电话号码",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "passwordRequirements": "密码必须至少包含八个字符，包括至少1个字母和1个数字。",
+    "optInMessage": "选择偶尔接收产品更新、用户研究邀请、公司公告和摘要。",
+    "signUp": "注册",
+    "login": "登录",
+    "signUpAgreement": "点击“注册”即表示您同意我们的服务条款、隐私政策和Cookie政策。",
+    "alreadyHaveAccount": "已有账户？",
+    "dontHaveAccount": "没有账户？"
+  },
+  "aboutAuth": {
+    "joinCommunity": "加入Stack Overflow社区",
+    "getUnstuck": "卡住了？ - 提问",
+    "unlockPrivileges": "解锁投票和评论等新权限",
+    "saveFavorites": "保存您喜爱的标签、过滤器和职位",
+    "collaborateShare": "与一个私人群组合作并分享知识",
+    "getFree": "获取Stack Overflow免费最多50名用户使用。"
+  },
+  "forgotPassword": {
+    "getOTP": "获取OTP",
+    "getOTPThrough": "通过获取OTP"
+  },
+  "setNewPassword": {
+    "email": "电子邮件",
+    "password": "密码",
+    "changePassword": "更改密码"
+  },
+  "validateOTP": {
+    "otp": "OTP",
+    "validateOTP": "验证OTP"
+  },
+  "questionsDetails": {
+    "loading": "加载中...",
+    "loginToAnswer": "登录或注册以回答问题",
+    "enterAnswer": "提交前请输入答案",
+    "copiedUrl": "URL已复制: ",
+    "share": "分享",
+    "delete": "删除",
+    "asked": "提问",
+    "answers": "回答",
+    "yourAnswer": "你的回答",
+    "postYourAnswer": "发布你的回答",
+    "browseOtherQuestions": "浏览其他已标记的问题",
+    "or": "或",
+    "askYourOwnQuestion": "提出你自己的问题",
+    "answered": "回答"
+  },
+  "tags": {
+    "tagsTitle": "标签",
+    "tagsDescription1": "标签是一个关键词或标签，它将您的问题与其他类似问题分类。",
+    "tagsDescription2": "使用正确的标签可以让其他人更容易找到和回答您的问题。",
+    "noTagsAvailable": "没有可用标签"
+  },
+  "profileBio": {
+    "tagsWatched": "关注的标签",
+    "noTagsWatched": "0个关注的标签",
+    "about": "关于",
+    "noBioFound": "未找到简介"
+  },
+  "userProfile": {
+    "joined": "加入时间",
+    "editProfile": "编辑资料"
+  },
+  "users": {
+    "title": "用户",
+    "noUsersAvailable": "无可用用户"
+  },
+  "askQuestion": {
+    "pageTitle": "提出一个公开问题",
+    "titleLabel": "标题",
+    "titlePlaceholder": "例如，是否有一个R函数可以找到向量中元素的索引？",
+    "titleHint": "具体一点，想象一下你在问另一个人",
+    "bodyLabel": "正文",
+    "bodyPlaceholder": "包括回答您问题所需的所有信息",
+    "bodyHint": "在处理输入时按键",
+    "tagsLabel": "标签",
+    "tagsPlaceholder": "例如，(xml typescript wordpress)",
+    "tagsHint": "添加最多5个标签来描述您的问题",
+    "reviewButton": "审查您的问题"
+  },
+  "homeMainbar": {
+    "topQuestions": "热门问题",
+    "allQuestions": "所有问题",
+    "askQuestion": "提问",
+    "loading": "加载中...",
+    "questionsCount": "{{ count }}个问题"
+  },
+  "alerts": {
+    "loginToAskQuestion": "登录或注册以提出问题"
+  },
+  "questions": {
+    "votes": "投票",
+    "answers": "答案",
+    "asked": "提问",
+    "askedBy": "提问者"
+  },
+  "leftSideBar": {
+    "home": "主页",
+    "public": "公共",
+    "questions": "问题",
+    "tags": "标签",
+    "users": "用户"
+  },
+  "navbar": {
+    "about": "关于",
+    "products": "产品",
+    "forTeams": "团队",
+    "searchPlaceholder": "搜索...",
+    "login": "登录",
+    "logout": "登出"
+  },
+  "widget": {
+    "overflowBlog": "溢出博客",
+    "observability": "可观察性是软件未来（以及您的DevOps职业）的关键",
+    "podcast": "播客 334：您的用户名价值几何？",
+    "featuredMeta": "精选Meta",
+    "reviewQueue": "审核队列工作流程 - 最新版本...",
+    "welcomeAssociates": "请欢迎我们的宝贵同事：#958 - V2Blast #959 - SpencerG",
+    "outdatedAnswers": "过时的答案：接受的答案现在在Stack Overflow上已取消固定",
+    "hotMetaPosts": "热门Meta帖子",
+    "spamFlag": "为什么这个垃圾邮件标志被拒绝，而问题却标记为垃圾邮件？",
+    "bestCourse": "当用户的声誉足够时，最好的做法是什么...",
+    "usefulComment": "\"如何提问\"帮助页面链接是一个有用的评论吗？"
+  },
+  "loginHistory": {
+    "yourLoginHistory": "登录历史",
+    "yourLoginInformation": "登录信息",
+    "loginTime": "登录时间",
+    "ipAddress": "IP地址",
+    "browser": "浏览器",
+    "os": "操作系统",
+    "device": "设备"
+  }
+}

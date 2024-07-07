@@ -1,0 +1,153 @@
+{
+    "editProfileForm": {
+      "editProfileTitle": "अपनी प्रोफ़ाइल संपादित करें",
+      "publicInformation": "सार्वजनिक जानकारी",
+      "displayName": "प्रदर्शन नाम",
+      "aboutMe": "मेरे बारे में",
+      "watchedTags": "देखे गए टैग्स",
+      "addTagsPrompt": "स्पेस द्वारा अलग किए गए टैग्स जोड़ें",
+      "saveProfile": "प्रोफ़ाइल सहेजें",
+      "cancel": "रद्द करें"
+    },
+    "auth": {
+      "enterEmailAndPassword": "एक ईमेल और पासवर्ड दर्ज करें",
+      "enterName": "जारी रखने के लिए एक नाम दर्ज करें",
+      "enterPhoneNumber": "जारी रखने के लिए एक फोन नंबर दर्ज करें",
+      "displayName": "प्रदर्शन नाम",
+      "email": "ईमेल",
+      "phoneNumber": "फोन नंबर",
+      "password": "पासवर्ड",
+      "forgotPassword": "पासवर्ड भूल गए?",
+      "passwordRequirements": "पासवर्ड में कम से कम आठ अक्षर होने चाहिए, जिसमें कम से कम 1 अक्षर और 1 संख्या होनी चाहिए।",
+      "optInMessage": "प्रोडक्ट अपडेट, यूजर रिसर्च निमंत्रण, कंपनी घोषणाओं और डाइजेस्ट को कभी-कभी प्राप्त करने के लिए ऑप्ट-इन करें।",
+      "signUp": "साइन अप करें",
+      "login": "लॉगिन",
+      "signUpAgreement": "\"साइन अप करें\" पर क्लिक करके, आप हमारी सेवा शर्तों, गोपनीयता नीति और कुकी नीति से सहमत होते हैं।",
+      "alreadyHaveAccount": "पहले से ही एक खाता है?",
+      "dontHaveAccount": "खाता नहीं है?"
+    },
+    "aboutAuth": {
+      "joinCommunity": "Stack Overflow समुदाय में शामिल हों",
+      "getUnstuck": "फंसने पर - एक सवाल पूछें",
+      "unlockPrivileges": "वोटिंग और कमेंटिंग जैसे नए विशेषाधिकार अनलॉक करें",
+      "saveFavorites": "अपने पसंदीदा टैग्स, फ़िल्टर और नौकरियों को सहेजें",
+      "collaborateShare": "एक निजी समूह के साथ ज्ञान साझा करें और सहयोग करें",
+      "getFree": "50 उपयोगकर्ताओं तक के लिए Stack Overflow मुफ्त में प्राप्त करें।"
+    },
+    "forgotPassword": {
+      "getOTP": "OTP प्राप्त करें",
+      "getOTPThrough": "OTP के माध्यम से प्राप्त करें"
+    },
+    "setNewPassword": {
+      "email": "ईमेल",
+      "password": "पासवर्ड",
+      "changePassword": "पासवर्ड बदलें"
+    },
+    "validateOTP": {
+      "otp": "OTP",
+      "validateOTP": "OTP सत्यापित करें"
+    },
+    "questionsDetails": {
+      "loading": "लोड हो रहा है...",
+      "loginToAnswer": "प्रश्न का उत्तर देने के लिए लॉगिन करें या साइन अप करें",
+      "enterAnswer": "जमा करने से पहले उत्तर दर्ज करें",
+      "copiedUrl": "यूआरएल कॉपी किया गया: ",
+      "share": "शेयर करें",
+      "delete": "हटाएं",
+      "asked": "पूछा गया",
+      "answers": "उत्तर",
+      "yourAnswer": "आपका उत्तर",
+      "postYourAnswer": "अपना उत्तर पोस्ट करें",
+      "browseOtherQuestions": "टैग किए गए अन्य प्रश्न ब्राउज़ करें",
+      "or": "या",
+      "askYourOwnQuestion": "अपना प्रश्न पूछें",
+      "answered": "उत्तर दिया गया"
+    },
+    "tags": {
+      "tagsTitle": "टैग्स",
+      "tagsDescription1": "एक टैग एक कीवर्ड या लेबल है जो आपके प्रश्न को अन्य समान प्रश्नों के साथ वर्गीकृत करता है।",
+      "tagsDescription2": "सही टैग्स का उपयोग करना दूसरों के लिए आपके प्रश्न को ढूंढना और उत्तर देना आसान बनाता है।",
+      "noTagsAvailable": "कोई टैग उपलब्ध नहीं"
+    },
+    "profileBio": {
+      "tagsWatched": "देखे गए टैग्स",
+      "noTagsWatched": "0 टैग्स देखे गए",
+      "about": "के बारे में",
+      "noBioFound": "कोई बायो नहीं मिला"
+    },
+    "userProfile": {
+      "joined": "शामिल",
+      "editProfile": "प्रोफ़ाइल संपादित करें"
+    },
+    "users": {
+      "title": "उपयोगकर्ता",
+      "noUsersAvailable": "कोई उपयोगकर्ता उपलब्ध नहीं हैं"
+    },
+    "askQuestion": {
+      "pageTitle": "एक सार्वजनिक प्रश्न पूछें",
+      "titleLabel": "शीर्षक",
+      "titlePlaceholder": "उदाहरण: एक वेक्टर में तत्व का सूचकांक खोजने के लिए क्या कोई आर फ़ंक्शन है?",
+      "titleHint": "विशिष्ट रहें और कल्पना करें कि आप किसी अन्य व्यक्ति से एक प्रश्न पूछ रहे हैं",
+      "bodyLabel": "शरीर",
+      "bodyPlaceholder": "अपने प्रश्न का उत्तर देने के लिए आवश्यक सभी जानकारी शामिल करें",
+      "bodyHint": "एंटर बटन को संभालने के लिए की प्रेस पर",
+      "tagsLabel": "टैग्स",
+      "tagsPlaceholder": "उदाहरण: (xml typescript wordpress)",
+      "tagsHint": "अपने प्रश्न के बारे में क्या है, इसका वर्णन करने के लिए 5 तक टैग्स जोड़ें",
+      "reviewButton": "अपने प्रश्न की समीक्षा करें"
+    },
+    "homeMainbar": {
+      "topQuestions": "शीर्ष प्रश्न",
+      "allQuestions": "सभी प्रश्न",
+      "askQuestion": "प्रश्न पूछें",
+      "loading": "लोड हो रहा है...",
+      "questionsCount": "{{ count }} प्रश्न"
+    },
+    "alerts": {
+      "loginToAskQuestion": "प्रश्न पूछने के लिए लॉगिन करें या साइन अप करें"
+    },
+    "questions": {
+      "votes": "वोट्स",
+      "answers": "उत्तर",
+      "asked": "पूछा गया",
+      "askedBy": "द्वारा पूछा गया"
+    },
+    "leftSideBar": {
+      "home": "मुख्य पृष्ठ",
+      "public": "सार्वजनिक",
+      "questions": "प्रश्न",
+      "tags": "टैग्स",
+      "users": "उपयोगकर्ता"
+    },
+    "navbar": {
+      "about": "के बारे में",
+      "products": "उत्पाद",
+      "forTeams": "टीमों के लिए",
+      "searchPlaceholder": "खोजें...",
+      "login": "लॉगिन करें",
+      "logout": "लॉगआउट करें"
+    },
+    "widget": {
+      "overflowBlog": "ओवरफ्लो ब्लॉग",
+      "observability": "प्रेक्षण भविष्य के सॉफ्टवेयर (और आपके DevOps करियर) के लिए महत्वपूर्ण है",
+      "podcast": "पॉडकास्ट 334: आपका स्क्रीन नाम कितना मूल्यवान है?",
+      "featuredMeta": "फीचर्ड मेटा पर",
+      "reviewQueue": "समीक्षा कतार वर्कफ़्लोज़ - अंतिम रिलीज़...",
+      "welcomeAssociates": "कृपया स्वागत करें मूल्यवान सहयोगियों: #958 - V2Blast #959 - SpencerG",
+      "outdatedAnswers": "पुराने उत्तर: स्वीकृत उत्तर अब Stack Overflow पर अनपिन कर दिया गया है",
+      "hotMetaPosts": "हॉट मेटा पोस्ट",
+      "spamFlag": "इस स्पैम फ्लैग को क्यों अस्वीकार किया गया, जबकि प्रश्न को स्पैम के रूप में चिह्नित किया गया था?",
+      "bestCourse": "जब किसी उपयोगकर्ता की प्रतिष्ठा पर्याप्त हो तो सर्वोत्तम कार्रवाई क्या है...",
+      "usefulComment": "\"कैसे पूछें\" सहायता पृष्ठ के लिए लिंक एक उपयोगी टिप्पणी है?"
+    },
+  "loginHistory": {
+      "yourLoginHistory": "लॉगिन इतिहास",
+      "yourLoginInformation": "लॉगिन जानकारी",
+      "loginTime": "लॉगिन समय",
+      "ipAddress": "आईपी पता",
+      "browser": "ब्राउज़र",
+      "os": "ऑपरेटिंग सिस्टम",
+      "device": "उपकरण"
+  }  
+}
+  

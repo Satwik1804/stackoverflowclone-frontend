@@ -1,0 +1,152 @@
+{
+  "editProfileForm": {
+    "editProfileTitle": "Edite seu perfil",
+    "publicInformation": "Informações públicas",
+    "displayName": "Nome de exibição",
+    "aboutMe": "Sobre mim",
+    "watchedTags": "Tags assistidas",
+    "addTagsPrompt": "Adicione tags separadas por espaços",
+    "saveProfile": "Salvar perfil",
+    "cancel": "Cancelar"
+  },
+  "auth": {
+    "enterEmailAndPassword": "Digite um email e uma senha",
+    "enterName": "Digite um nome para continuar",
+    "enterPhoneNumber": "Digite um número de telefone para continuar",
+    "displayName": "Nome de exibição",
+    "email": "Email",
+    "phoneNumber": "Número de telefone",
+    "password": "Senha",
+    "forgotPassword": "Esqueceu a senha?",
+    "passwordRequirements": "As senhas devem conter pelo menos oito caracteres, incluindo pelo menos 1 letra e 1 número.",
+    "optInMessage": "Optar por receber ocasionalmente atualizações de produtos, convites para pesquisas de usuários, anúncios da empresa e resumos.",
+    "signUp": "Inscrever-se",
+    "login": "Entrar",
+    "signUpAgreement": "Ao clicar em \"Inscrever-se\", você concorda com nossos termos de serviço, política de privacidade e política de cookies.",
+    "alreadyHaveAccount": "Já tem uma conta?",
+    "dontHaveAccount": "Não tem uma conta?"
+  },
+  "aboutAuth": {
+    "joinCommunity": "Junte-se à comunidade do Stack Overflow",
+    "getUnstuck": "Desbloqueie-se - faça uma pergunta",
+    "unlockPrivileges": "Desbloqueie novos privilégios como votar e comentar",
+    "saveFavorites": "Salve seus tags, filtros e empregos favoritos",
+    "collaborateShare": "Colabore e compartilhe conhecimento com um grupo privado para",
+    "getFree": "Obtenha o Stack Overflow gratuitamente para até 50 usuários."
+  },
+  "forgotPassword": {
+    "getOTP": "Obter OTP",
+    "getOTPThrough": "Obtenha OTP através de"
+  },
+  "setNewPassword": {
+    "email": "Email",
+    "password": "Senha",
+    "changePassword": "Mudar senha"
+  },
+  "validateOTP": {
+    "otp": "OTP",
+    "validateOTP": "Validar OTP"
+  },
+  "questionsDetails": {
+    "loading": "Carregando...",
+    "loginToAnswer": "Faça login ou cadastre-se para responder a uma pergunta",
+    "enterAnswer": "Digite uma resposta antes de enviar",
+    "copiedUrl": "URL copiada: ",
+    "share": "Compartilhar",
+    "delete": "Excluir",
+    "asked": "perguntado",
+    "answers": "Respostas",
+    "yourAnswer": "Sua resposta",
+    "postYourAnswer": "Poste sua resposta",
+    "browseOtherQuestions": "Navegue por outras perguntas marcadas",
+    "or": "ou",
+    "askYourOwnQuestion": "faça sua própria pergunta",
+    "answered": "respondido"
+  },
+  "tags": {
+    "tagsTitle": "Tags",
+    "tagsDescription1": "Uma tag é uma palavra-chave ou rótulo que categoriza sua pergunta com outras perguntas semelhantes.",
+    "tagsDescription2": "Usar as tags corretas facilita para outras pessoas encontrar e responder sua pergunta.",
+    "noTagsAvailable": "Nenhuma tag disponível"
+  },
+  "profileBio": {
+    "tagsWatched": "Tags assistidas",
+    "noTagsWatched": "0 tags assistidas",
+    "about": "Sobre",
+    "noBioFound": "Nenhuma biografia encontrada"
+  },
+  "userProfile": {
+    "joined": "Entrou",
+    "editProfile": "Editar perfil"
+  },
+  "users": {
+    "title": "Usuários",
+    "noUsersAvailable": "Nenhum usuário disponível"
+  },
+  "askQuestion": {
+    "pageTitle": "Faça uma pergunta pública",
+    "titleLabel": "Título",
+    "titlePlaceholder": "por exemplo, Existe uma função R para encontrar o índice de um elemento em um vetor?",
+    "titleHint": "Seja específico e imagine que você está perguntando a outra pessoa",
+    "bodyLabel": "Corpo",
+    "bodyPlaceholder": "Inclua todas as informações que alguém precisaria para responder sua pergunta",
+    "bodyHint": "na tecla de manuseio de entrada",
+    "tagsLabel": "Tags",
+    "tagsPlaceholder": "por exemplo, (xml typescript wordpress)",
+    "tagsHint": "Adicione até 5 tags para descrever sobre o que é sua pergunta",
+    "reviewButton": "Revise sua pergunta"
+  },
+  "homeMainbar": {
+    "topQuestions": "Principais perguntas",
+    "allQuestions": "Todas as perguntas",
+    "askQuestion": "Faça uma pergunta",
+    "loading": "Carregando...",
+    "questionsCount": "{{ count }} perguntas"
+  },
+  "alerts": {
+    "loginToAskQuestion": "Faça login ou cadastre-se para fazer uma pergunta"
+  },
+  "questions": {
+    "votes": "votos",
+    "answers": "respostas",
+    "asked": "perguntado",
+    "askedBy": "perguntado por"
+  },
+  "leftSideBar": {
+    "home": "Início",
+    "public": "Público",
+    "questions": "Perguntas",
+    "tags": "Tags",
+    "users": "Usuários"
+  },
+  "navbar": {
+    "about": "Sobre",
+    "products": "Produtos",
+    "forTeams": "Para equipes",
+    "searchPlaceholder": "Pesquisar...",
+    "login": "Entrar",
+    "logout": "Sair"
+  },
+  "widget": {
+    "overflowBlog": "Blog Overflow",
+    "observability": "A observabilidade é a chave para o futuro do software (e da sua carreira DevOps)",
+    "podcast": "Podcast 334: Qual é o valor do seu nome de usuário?",
+    "featuredMeta": "Destaque no meta",
+    "reviewQueue": "Fluxos de trabalho da fila de revisão - Última versão...",
+    "welcomeAssociates": "Por favor, dê as boas-vindas aos associados valorizados: #958 - V2Blast #959 - SpencerG",
+    "outdatedAnswers": "Respostas desatualizadas: a resposta aceita não está mais fixada no Stack Overflow",
+    "hotMetaPosts": "Postagens quentes no meta",
+    "spamFlag": "Por que esta bandeira de spam foi recusada, enquanto a pergunta é marcada como spam?",
+    "bestCourse": "Qual é o melhor curso de ação quando um usuário tem reputação suficiente para...",
+    "usefulComment": "Um link para a página de ajuda \"Como fazer uma pergunta\" é um comentário útil?"
+  },
+  "loginHistory": {
+    "yourLoginHistory": "Histórico de Login",
+    "yourLoginInformation": "Informações de Login",
+    "loginTime": "Hora de Login",
+    "ipAddress": "Endereço IP",
+    "browser": "Navegador",
+    "os": "Sistema Operacional",
+    "device": "Dispositivo"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "editProfileForm": {
+    "editProfileTitle": "Modifier votre profil",
+    "publicInformation": "Informations publiques",
+    "displayName": "Nom d'affichage",
+    "aboutMe": "À propos de moi",
+    "watchedTags": "Étiquettes suivies",
+    "addTagsPrompt": "Ajoutez des étiquettes séparées par des espaces",
+    "saveProfile": "Enregistrer le profil",
+    "cancel": "Annuler"
+  },
+  "auth": {
+    "enterEmailAndPassword": "Entrez un email et un mot de passe",
+    "enterName": "Entrez un nom pour continuer",
+    "enterPhoneNumber": "Entrez un numéro de téléphone pour continuer",
+    "displayName": "Nom d'affichage",
+    "email": "Email",
+    "phoneNumber": "Numéro de téléphone",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "passwordRequirements": "Les mots de passe doivent contenir au moins huit caractères, y compris au moins 1 lettre et 1 chiffre.",
+    "optInMessage": "Accepter de recevoir occasionnellement des mises à jour de produits, des invitations à des études utilisateurs, des annonces de l'entreprise et des résumés.",
+    "signUp": "S'inscrire",
+    "login": "Se connecter",
+    "signUpAgreement": "En cliquant sur \"S'inscrire\", vous acceptez nos conditions d'utilisation, notre politique de confidentialité et notre politique en matière de cookies.",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?"
+  },
+  "aboutAuth": {
+    "joinCommunity": "Rejoignez la communauté Stack Overflow",
+    "getUnstuck": "Débloquez-vous - posez une question",
+    "unlockPrivileges": "Débloquez de nouveaux privilèges comme le vote et les commentaires",
+    "saveFavorites": "Enregistrez vos tags, filtres et emplois favoris",
+    "collaborateShare": "Collaborez et partagez des connaissances avec un groupe privé pour",
+    "getFree": "Obtenez Stack Overflow gratuitement pour jusqu'à 50 utilisateurs."
+  },
+  "forgotPassword": {
+    "getOTP": "Obtenir un OTP",
+    "getOTPThrough": "Obtenez un OTP par"
+  },
+  "setNewPassword": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "changePassword": "Changer le mot de passe"
+  },
+  "validateOTP": {
+    "otp": "OTP",
+    "validateOTP": "Valider OTP"
+  },
+  "questionsDetails": {
+    "loading": "Chargement...",
+    "loginToAnswer": "Connectez-vous ou inscrivez-vous pour répondre à une question",
+    "enterAnswer": "Entrez une réponse avant de soumettre",
+    "copiedUrl": "URL copiée : ",
+    "share": "Partager",
+    "delete": "Supprimer",
+    "asked": "demandé",
+    "answers": "Réponses",
+    "yourAnswer": "Votre réponse",
+    "postYourAnswer": "Publiez votre réponse",
+    "browseOtherQuestions": "Parcourez d'autres questions taguées",
+    "or": "ou",
+    "askYourOwnQuestion": "posez votre propre question",
+    "answered": "répondu"
+  },
+  "tags": {
+    "tagsTitle": "Étiquettes",
+    "tagsDescription1": "Une étiquette est un mot-clé ou une étiquette qui catégorise votre question avec d'autres questions similaires.",
+    "tagsDescription2": "Utiliser les bonnes étiquettes facilite la recherche et la réponse à votre question par d'autres utilisateurs.",
+    "noTagsAvailable": "Aucune étiquette disponible"
+  },
+  "profileBio": {
+    "tagsWatched": "Étiquettes suivies",
+    "noTagsWatched": "0 étiquettes suivies",
+    "about": "À propos",
+    "noBioFound": "Aucune biographie trouvée"
+  },
+  "userProfile": {
+    "joined": "Rejoint",
+    "editProfile": "Éditer le profil"
+  },
+  "users": {
+    "title": "Utilisateurs",
+    "noUsersAvailable": "Aucun utilisateur disponible"
+  },
+  "askQuestion": {
+    "pageTitle": "Posez une question publique",
+    "titleLabel": "Titre",
+    "titlePlaceholder": "par exemple, Existe-t-il une fonction R pour trouver l'index d'un élément dans un vecteur ?",
+    "titleHint": "Soyez spécifique et imaginez que vous posez une question à une autre personne",
+    "bodyLabel": "Corps",
+    "bodyPlaceholder": "Incluez toutes les informations dont quelqu'un aurait besoin pour répondre à votre question",
+    "bodyHint": "sur la touche de gestion de l'entrée",
+    "tagsLabel": "Étiquettes",
+    "tagsPlaceholder": "par exemple, (xml typescript wordpress)",
+    "tagsHint": "Ajoutez jusqu'à 5 étiquettes pour décrire de quoi parle votre question",
+    "reviewButton": "Passez en revue votre question"
+  },
+  "homeMainbar": {
+    "topQuestions": "Questions principales",
+    "allQuestions": "Toutes les questions",
+    "askQuestion": "Poser une question",
+    "loading": "Chargement...",
+    "questionsCount": "{{ count }} questions"
+  },
+  "alerts": {
+    "loginToAskQuestion": "Connectez-vous ou inscrivez-vous pour poser une question"
+  },
+  "questions": {
+    "votes": "votes",
+    "answers": "réponses",
+    "asked": "demandé",
+    "askedBy": "demandé par"
+  },
+  "leftSideBar": {
+    "home": "Accueil",
+    "public": "PUBLIC",
+    "questions": "Questions",
+    "tags": "Étiquettes",
+    "users": "Utilisateurs"
+  },
+  "navbar": {
+    "about": "À propos",
+    "products": "Produits",
+    "forTeams": "Pour les équipes",
+    "searchPlaceholder": "Recherche...",
+    "login": "Se connecter",
+    "logout": "Se déconnecter"
+  },
+  "widget": {
+    "overflowBlog": "Le blog Overflow",
+    "observability": "L'observabilité est la clé de l'avenir du logiciel (et de votre carrière DevOps)",
+    "podcast": "Podcast 334 : Quelle est la valeur de votre nom d'utilisateur ?",
+    "featuredMeta": "En vedette sur meta",
+    "reviewQueue": "Flux de travail de la file d'attente de révision - Dernière version...",
+    "welcomeAssociates": "Veuillez accueillir les associés valorisés : #958 - V2Blast #959 - SpencerG",
+    "outdatedAnswers": "Réponses obsolètes : la réponse acceptée n'est plus épinglée sur Stack Overflow",
+    "hotMetaPosts": "Messages chauds sur meta",
+    "spamFlag": "Pourquoi ce drapeau de spam a-t-il été refusé, alors que la question est marquée comme spam ?",
+    "bestCourse": "Quelle est la meilleure action à entreprendre lorsqu'un utilisateur a suffisamment de réputation pour...",
+    "usefulComment": "Un lien vers la page d'aide \"Comment poser une question\" est-il un commentaire utile ?"
+  },
+  "loginHistory": {
+    "yourLoginHistory": "Historique de Connexion",
+    "yourLoginInformation": "Informations de Connexion",
+    "loginTime": "Heure de Connexion",
+    "ipAddress": "Adresse IP",
+    "browser": "Navigateur",
+    "os": "Système d'Exploitation",
+    "device": "Appareil"
+  }
+}
